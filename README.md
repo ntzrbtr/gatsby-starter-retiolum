@@ -1,3 +1,3 @@
-# Gatsyby starter
+# Gatsby starter
 
-Opinionated Gatsby starter project based on the default starter and code from Wes Bos' Gatsby course
+Opinionated Gatsby starter project based on the default starter and code from Wes Bos' Gatsby course (https://mastergatsby.com/)
