@@ -3,11 +3,11 @@ import { Link } from 'gatsby'
 import { StaticImage } from 'gatsby-plugin-image'
 
 import Layout from '../components/Layout'
-import Seo from '../components/SEO'
+import SEO from '../components/SEO'
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
+    <SEO title="Home" />
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
